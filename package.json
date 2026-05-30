@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-   "build": "next build && bunx cloudflare-next",
+    "build": "next build && bun npx @opennextjs/cloudflare",
     "start": "next start",
     "lint": "biome check",
     "format": "biome format --write"
