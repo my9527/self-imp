@@ -47,3 +47,12 @@ a {
     color-scheme: dark;
   }
 }
+
+
+.bg-blue-500 {
+  background-color: blue;
+}
+
+.text-white{
+  color: white;
+}
