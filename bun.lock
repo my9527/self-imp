@@ -5,13 +5,13 @@
     "": {
       "name": "my-app",
       "dependencies": {
-        "@opennextjs/cloudflare": "^1.19.11",
         "next": "16.2.6",
         "react": "19.2.4",
         "react-dom": "19.2.4",
       },
       "devDependencies": {
         "@biomejs/biome": "2.2.0",
+        "@opennextjs/cloudflare": "^1.19.11",
         "@types/node": "^20",
         "@types/react": "^19",
         "@types/react-dom": "^19",
